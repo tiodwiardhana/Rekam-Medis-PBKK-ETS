@@ -15,7 +15,7 @@
             <div class="col-lg-6">
                 <div class="card mt-5">
                     <div class="card-body" style="background-color:rgb(46, 16, 82)">
-                        <h3>Formulir Pendaftaran PKM TC</h3>
+                        <h3>Formulir Rekam Medis</h3>
                         <h3 class="my-4">Data Yang Di Input : </h3>
 
                         <table class="table table-bordered table-striped">
