@@ -4,7 +4,7 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta http-equiv="X-UA-Compatible" content="ie=edge">
-    <title>Form Registrasi PKM TC</title>
+    <title>Rekam Medis</title>
  
     <!-- bootstrap -->
     <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.2.1/css/bootstrap.min.css">
@@ -15,7 +15,7 @@
                 <div class="col-lg-6">
                     <div class="card mt-5" style="font-size: 15pt; font-weight:bold">
                         <div class="card-body"  style="background-color:rgb(88, 188, 218)">
-                            <h3 class="text-center">Formulir Pendaftaran PKM TC</h3>
+                            <h3 class="text-center">Formulir Rekam Medis</h3>
                               <!-- form validasi -->
                               <form action="/output" method="post" enctype="multipart/form-data">
                                 {{ csrf_field() }}
